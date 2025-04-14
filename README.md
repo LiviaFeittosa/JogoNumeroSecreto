@@ -1,1 +1,11 @@
-![Imagem Jogo Número Secreto](C:\Users\livia\OneDrive\Imagens\Screenshots\numeroSecreto.png)
+![image]()
+
+Ferramentas utilizadas:
+
+HTML
+CSS
+JAVASCRIPT
+ARRAY
+
+Feito por:
+Lívia Soares
